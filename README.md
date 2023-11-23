@@ -29,7 +29,7 @@ Video may be found at the link https://youtu.be/awY2zE0CnnY
   With the query tool still open, populate the students table by executing the above code
 
 
-#### To run the function application.py:
+#### To run the application application.py:
   python application.py
 
 As you can see in the video, uncommenting the different function calls in main will allow the different functions to be tested.
