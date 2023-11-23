@@ -50,10 +50,10 @@ def addStudent(first_name, last_name, email, enrollment_date)
 
 ---
 
+```
 def updateStudentEmail(student_id, new_email)
 ```
   Using the passed student_id argument, a specific student's email shall be overwritten with the new_email parameter.
-```
 
 ---
 
