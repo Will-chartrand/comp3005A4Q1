@@ -1,5 +1,7 @@
 ### Video:
 Video may be found at https://youtu.be/awY2zE0CnnY
+* Note if you have an adblocker such as UBlockOrigin, opening youtube links in a private browser enables the video to play without having to turn it off.
+
 
 ### How to set up the databasae:
 
@@ -30,7 +32,9 @@ Video may be found at https://youtu.be/awY2zE0CnnY
 
 
 #### To run the application application.py:
-  python application.py
+  ```
+    python application.py
+  ```
 
 As you can see in the video, uncommenting the different function calls in main will allow the different functions to be tested.
 
