@@ -1,5 +1,5 @@
 ### Video:
-Video may be found at the link https://youtu.be/awY2zE0CnnY
+Video may be found at https://youtu.be/awY2zE0CnnY
 
 ### How to set up the databasae:
 
